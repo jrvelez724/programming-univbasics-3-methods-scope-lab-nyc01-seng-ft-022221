@@ -15,6 +15,8 @@ def link
   puts warning 
   warning
 end
-Mario
-toadstool
-link
+
+def all_phrases 
+  mario + toadstool + link
+end
+
