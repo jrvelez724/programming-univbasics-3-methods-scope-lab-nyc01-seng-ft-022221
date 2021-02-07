@@ -15,3 +15,6 @@ def link
   puts warning 
   warning
 end
+Mario
+toadstool
+link
